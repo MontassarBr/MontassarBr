@@ -1,17 +1,23 @@
-<h2 align="left">Hi 👋! My name is Montassar and I'm a Computer Science Student from Tunisia 🇹🇳</h2>
+<h2 align="left">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=false&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Montassar+Braiek;Computer+Science+Student+from+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Full-Stack+Developer+%7C+Competitive+Programmer;React+%7C+Node.js+%7C+MySQL+%7C+AI+Enthusiast&cursor=▌" alt="Typing SVG" />
+
+</h2>
+
+
+
 
 ---
 
 🎓 Studying at FST El Manar  
 💻 Passionate about Full-Stack Development, AI, and Competitive Programming  
 🚀 Building projects with React.js, Node.js, MySQL, and more  
-📌 Actively participating in tech clubs like IEEE, GDSC, and CLL  
+📌 Active in IEEE, GDSC, and CLL clubs  
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MontassarBr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MontassarBr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=MontassarBr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MontassarBr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
