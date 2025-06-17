@@ -1,7 +1,8 @@
+<!-- Typing animation title with custom color -->
 <h2 align="left">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=false&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Montassar+Braiek;Computer+Science+Student+from+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Full-Stack+Developer+%7C+Competitive+Programmer;React+%7C+Node.js+%7C+MySQL+%7C+AI+Enthusiast&cursor=▌" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=false&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Montassar+Braiek;Computer+Science+Student+from+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Full-Stack+Developer+%7C+Competitive+Programmer;React+%7C+Node.js+%7C+MySQL+%7C+AI+Enthusiast" alt="Typing SVG" />
 </h2>
+
 
 
 
